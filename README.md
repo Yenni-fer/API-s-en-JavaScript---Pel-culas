@@ -1,7 +1,8 @@
-# API's en JavaScript - Película
-# Docente: Senen Aldahir Mayorga
-# Yenifer Hernandez Martinez
 # UNIVESIDAD TECNOLOGICA DE LA SIERRA HIDALGUENSE
-# Aplicacion web y objetos
-# Cuatrimestre: 4to
-# Tecnologias utilizadas en el proyecto (JavaScript, Fetch API, HTML, CSS).
+
+## **Materia:** API's en JavaScript - Película
+## **Docente:** Senen Aldahir Mayorga Garcia
+## **Alumna:** Yenifer Hernandez Martinez
+## **Asignatura:** Aplicacion Web Orientada a Servicios
+## **Cuatrimestre:** 4to
+## **Trabajo:** Tecnologias utilizadas en el proyecto (JavaScript, Fetch API, HTML, CSS).

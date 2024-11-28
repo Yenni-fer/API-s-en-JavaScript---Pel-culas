@@ -4,4 +4,4 @@
 ## **Alumna:** Yenifer Hernandez Martinez
 ## **Asignatura:** Aplicacion Web Orientada a Servicios
 ## **Cuatrimestre:** 4to
-## **Trabajo:** Tecnologias utilizadas en el proyecto (JavaScript, Fetch API, HTML, CSS).
+## **Trabajo:** UIII-Ac06 Consumo de API´s
